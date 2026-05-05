@@ -12,7 +12,7 @@ At this stage, the project already highlights several important challenges. In p
 
 To address these issues, more flexible methods are being considered. In particular, Double Machine Learning (Double Lasso for average effects, Causal Random Forest with CLAN for heterogeneity) could help address selection and composition biases. Synthetic Control methods are also considered to deal with structural differences and diverging trends.
 
-This work is still a draft. Not only does it need to be completed, but the existing code may also be revised. In particular, I may refine and streamline it (e.g. reduce redundancies), as well as improve certain aspects that require further development, such as implementing a leakage-safe NA imputation pipeline, refining the forward-looking score, or making the comments clearer and more concise. A conceptual report will also be released.
+This work is still a draft. Not only does it need to be completed, but the existing code may also be revised. In particular, I may refine and streamline it (e.g. reduce redundancies), as well as improve certain aspects that require further development, such as implementing a leakage-safe NA imputation pipeline, refining the forward-looking score, or making the comments clearer and more concise.
 
 Note: The original SHP data cannot be shared for confidentiality reasons.
 
