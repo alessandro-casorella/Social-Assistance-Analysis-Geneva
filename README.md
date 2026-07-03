@@ -1,6 +1,6 @@
 # Social-Assistance-Analysis-Geneva
 
-The project studies the impact of the 2007 LIASI reform in the Canton of Geneva using a DiD approach. The reform modified the Genevan social assistance system by introducing incentives and sanctions aimed at encouraging beneficiaries to reintegrate into the labor market. To get the report proposal, click [here](https://drive.google.com/file/d/1Cdz5cwbp0m1gG27SXRr_Wwm52A579sm8/view?usp=sharing). 
+The project studies the impact of the 2007 LIASI reform in the Canton of Geneva using a DiD approach. The reform modified the Genevan social assistance system by introducing incentives and sanctions aimed at encouraging beneficiaries to reintegrate into the labor market. To get the project proposal, click [here](https://drive.google.com/file/d/1Cdz5cwbp0m1gG27SXRr_Wwm52A579sm8/view?usp=sharing). 
 
 The main objectives are:
 - to assess whether the reform reduced the duration of social assistance,
